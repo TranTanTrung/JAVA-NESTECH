@@ -1,4 +1,4 @@
-package BTVN.session1_2_3;
+package session1_2_3;
 
 import java.util.Date;
 

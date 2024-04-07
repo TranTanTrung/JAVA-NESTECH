@@ -1,4 +1,4 @@
-package BTVN.session1_2_3;
+package session1_2_3;
 
 public class VariableDataType {
     public static void main(String[] args) {
